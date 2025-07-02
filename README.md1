@@ -1,0 +1,23 @@
+# eCommerce Power BI Dashboard
+
+This project is a Power BI dashboard analyzing eCommerce sales performance.
+
+## 🔧 Tools Used
+- Power BI
+- Power Query
+- DAX
+
+## 📈 Key Features
+- KPIs: Total Sales, Total Orders, Total Profit
+- Avg Profit per Customer
+- Top N Customers by Profit
+- Category & Sub-Category Breakdown
+- Interactive filters using slicers
+
+## 📁 File
+- `ecommerce_dashboard.pbix`: Power BI file with full dashboard and data model
+
+## 📷 Preview
+(Screenshot coming soon)
+
+---
